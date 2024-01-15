@@ -14,6 +14,7 @@ which is available with open access.  A .pdf of the manuscript is included in th
 
 The codes have been used by a few students and other scientists who have provided some feedback on their stability and use, but some bugs may persist...  
 
-Bill Hammond
-Nevada Geodetic Laboratory
+Bill Hammond,
+
+Nevada Geodetic Laboratory,
 University of Nevada, Reno
